@@ -211,4 +211,18 @@
 - Используются внешние зависимости через SPM: Kingfisher, ProgressHUD, SnapKit.
 
 ## **Инструкция по запуску**
-
+Для запуска потребуется [Xcode](https://developer.apple.com/xcode/)
+1. Скачайте архив *main ветки* или *релиз* из github:  
+   1.1 Скачивание *main ветки*:  
+   <img width="1430" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/fe280dc8-aefb-430f-8a57-f0b69f5998a6">  
+   1.2 Скачивание *релиза*:  
+   <img width="1430" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/13020170-40fe-4d2b-84db-77924a49e380">  
+   <img width="1430" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/47a9aff5-ccf7-4233-8b19-dc2dddcd3a31">  
+2. Распакуйте архив и запустите проект:  
+   2.1 Зайдите в распакованную папку:  
+   <img width="692" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/37d5d0f5-2c35-428e-82cc-32f34007049a">  
+   2.2 Откройте файл *FakeNFT.xcodeproj*:  
+   <img width="692" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/19be050d-02a9-4d47-86d4-0041be8dd9a2">  
+   2.3 Появится окно, в котором нужно нажать *Trust and Open*:  
+   <img width="249" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/496ef2d1-1c62-4e05-a0ea-057979fc49b2">  
+3. В Xcode запустите приложение на симуляторе или на реальном устройстве.
