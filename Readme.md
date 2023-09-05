@@ -216,8 +216,8 @@
    1.1 Скачивание *main ветки*:  
    <img width="1430" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/fe280dc8-aefb-430f-8a57-f0b69f5998a6">  
    1.2 Скачивание *релиза*:  
-   <img width="1430" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/13020170-40fe-4d2b-84db-77924a49e380">  
-   <img width="1430" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/47a9aff5-ccf7-4233-8b19-dc2dddcd3a31">  
+   <img width="1430" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/df4e20a5-cc2f-4330-ba42-a40eed6aad28">  
+   <img width="1430" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/5147e805-343f-4b55-9b71-986bf25a2547">  
 2. Распакуйте архив и запустите проект:  
    2.1 Зайдите в распакованную папку:  
    <img width="692" alt="image" src="https://github.com/miamib34ch/YP-CP-FakeNFT/assets/77894393/37d5d0f5-2c35-428e-82cc-32f34007049a">  
